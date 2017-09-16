@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">main</string>
+    <string name="shou_ye">首頁</string>
+    <string name="mu_li">目錄</string>
+    <string name="cai_lan_zi">菜籃子</string>
+    <string name="zui_ai">最愛</string>
+    <string name="zhang_hu">帳戶</string>
+</resources>
