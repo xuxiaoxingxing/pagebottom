@@ -7,7 +7,7 @@
         android:layout_width="40dp"
         android:layout_height="40dp"
         android:layout_gravity="center_horizontal"
-        android:background="@drawable/shape_green_oval">
+        android:background="@drawable/shape_transparent_oval">
 
         <ImageView
             android:id="@+id/icon"
